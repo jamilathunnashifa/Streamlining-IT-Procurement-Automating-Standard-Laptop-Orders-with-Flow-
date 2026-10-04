@@ -1,0 +1,2 @@
+# Streamlining-IT-Procurement-Automating-Standard-Laptop-Orders-with-Flow-
+The Standard Laptop Procurement Automation project successfully demonstrates how ServiceNow Flow Designer can be used to streamline and automate a common IT procurement process. The solution was designed to reduce manual intervention involved in processing standard laptop requests and ensure that approved requests are promptly forwarded 
